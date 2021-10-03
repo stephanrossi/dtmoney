@@ -1,5 +1,4 @@
 import styled from "styled-components"
-import { Header } from "./../Header/index"
 
 export const Container = styled.div`
   display: grid;
